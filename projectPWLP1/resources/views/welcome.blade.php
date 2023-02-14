@@ -396,7 +396,6 @@
         <div class="ml-4 text-lg leading-7 font-semibold">
             <h1 class=" text-gray-900 dark:text-white">Yofandra Arta Priyoga</h1>
             <h1 class=" text-gray-900 dark:text-white">dan Aldin Ariel Pramudya</h1>
-            <h1 class=" text-gray-900 dark:text-white">Sapi Kawin</h1>
         </div>
     </div>
 </body>
