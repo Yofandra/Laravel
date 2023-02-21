@@ -12,7 +12,6 @@
 
     <!-- Styles -->
     <style>
-        
         /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
         html {
             line-height: 1.15;
@@ -394,7 +393,7 @@
 <body class="antialiased">
     <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
         <div class="ml-4 text-lg leading-7 font-semibold">
-            <h1 class=" text-gray-900 dark:text-white">Yofandra Arta Priyoga</h1>
+            <h1 class=" text-gray-900 dark:text-white">Yofandra Arta Priyoga 2</h1>
         </div>
     </div>
 </body>
