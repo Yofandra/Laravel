@@ -393,7 +393,12 @@
 <body class="antialiased">
     <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
         <div class="ml-4 text-lg leading-7 font-semibold">
+<<<<<<< HEAD
             <h1 class=" text-gray-900 dark:text-white">Yofandra Arta Priyoga 2</h1>
+=======
+            <h1 class=" text-gray-900 dark:text-white">Yofandra Arta Priyoga</h1>
+            <h1 class=" text-gray-900 dark:text-white">dan Aldin Ariel Pramudya</h1>
+>>>>>>> 4d7bbb7ae684e5da91607fc21cc49f516f8bc435
         </div>
     </div>
 </body>
